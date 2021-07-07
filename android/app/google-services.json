@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761029824194",
+    "project_id": "minute-record",
+    "storage_bucket": "minute-record.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761029824194:android:06ec67c208bb68c69df55b",
+        "android_client_info": {
+          "package_name": "com.sauravsomani.minute_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761029824194-vrn8in19n0r7885dp47he7pnmo1ece4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxn2NvKH_teGfVY_b1NKKb6NP1kXtAs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761029824194-vrn8in19n0r7885dp47he7pnmo1ece4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
